@@ -1,2 +1,2 @@
-# Primeiro-projeto-pr-tico-
-projeto prático para faculdade
+# Primeiro-projeto-prático
+projeto prático para distribuição da nota do professor Jeofton, faculdade (UNIPÊ).
